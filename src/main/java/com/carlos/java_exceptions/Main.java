@@ -20,17 +20,20 @@ public class Main {
             System.out.print("\nIntroduce una opción (1-4): ");
 
             int opcion;
+            
             try {
                 opcion = Integer.parseInt(scanner.nextLine());
             } catch (NumberFormatException e) {
                 System.out.println("\nError: Por favor, introduce un valor numérico válido");
                 continue;
             }
+            
             String matricula;
             int plaza;
+            
             try {
                 switch (opcion) {
-                    case 1: // Entrada de coche
+                    case 1:
                         System.out.print("\nIntroduce la matrícula del coche: ");
                         matricula = scanner.nextLine();
                         System.out.print("Introduce la plaza para aparcar: ");
@@ -43,7 +46,7 @@ public class Main {
                             System.out.println("\nError: Por favor, introduce un número válido para la plaza");
                         }
                         break;
-                    case 2: // Salida de coche
+                    case 2:
                         System.out.print("\nIntroduce la matrícula del coche para salir: ");
                         try {
                             matricula = scanner.nextLine();
@@ -54,10 +57,10 @@ public class Main {
                             System.out.println("\nError: La matrícula '" + e.getMatricula() + "' " + e.getMessage());
                         }
                         break;
-                    case 3: // Mostrar parking
+                    case 3:
                         System.out.println("\n" + parking);
                         break;
-                    case 4: // Finalizar programa
+                    case 4:
                         System.out.println("\nFinalizando el programa...");
                         scanner.close();
                         System.exit(0);
