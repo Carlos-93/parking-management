@@ -1,2 +1,6 @@
-# java_exceptions
- Development of an application in Java 21 for the management of a parking lot in real time, addressing the assignment of spaces and error control through custom exceptions
+<img src="https://raw.githubusercontent.com/Carlos-93/java-parking-management/main//images/logo.png" width="300">
+
+# Welcome to my Parking Management in Java 21
+
+Parking Manager is a Java 21 application for managing the real-time occupancy of a parking lot. 
+The application provides various features to control, monitor, and manage the parking lot effectively, using custom exceptions for error handling.
