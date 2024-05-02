@@ -1,9 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Carlos-93/java-parking-management/main//images/logo.png" width="250"></p>
 
 <p align="center">
-<a href="https://github.com/<your-repo>/actions"><img src="https://github.com/<your-repo>/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://mvnrepository.com/artifact/java-21"><img src="https://img.shields.io/maven-central/v/java-21" alt="Java 21 Version"></a>
-<a href="https://mvnrepository.com/artifact/java-21"><img src="https://img.shields.io/github/license/<your-repo>" alt="License"></a>
+<a href="https://github.com/Carlos-93/parking-management/actions"><img src="https://github.com/Carlos-93/parking-management/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/Carlos-93/parking-management"><img src="https://img.shields.io/github/stars/Carlos-93/parking-management" alt="Stars"></a>
+<a href="https://github.com/Carlos-93/parking-management/releases"><img src="https://img.shields.io/github/release/Carlos-93/parking-management" alt="Latest Release"></a>
+<a href="https://github.com/Carlos-93/parking-management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Carlos-93/parking-management" alt="License"></a>
 </p>
 
 # Welcome to my Parking Management in Java 21
