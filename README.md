@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Carlos-93/java-parking-management/main//images/logo.png" width="250"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Carlos-93/java-parking-management/main//images/logo.png" width="25%"></p>
 
 # Welcome to my Parking Management in Java 21
 
